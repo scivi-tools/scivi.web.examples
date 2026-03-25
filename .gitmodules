@@ -1,0 +1,3 @@
+[submodule "scivi.web"]
+	path = scivi.web
+	url = https://github.com/scivi-tools/scivi.web.git
